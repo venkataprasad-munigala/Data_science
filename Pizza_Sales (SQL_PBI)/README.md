@@ -1,5 +1,7 @@
 # 🍕PIZZA SALES ANALYSIS
 
+## Checkout the [Dashboard](https://github.com/venkataprasad-munigala/Projects/blob/main/Pizza_Sales%20(SQL_PBI)/Pizza%20Sales%20Images/Pizza_Sales_Dashboard.png)
+
 
 ## 🎯OBJECTIVE
 
@@ -22,4 +24,6 @@ Dive into the world of pizza with this dataset! It captures the essence of each 
 -Connected and transformed raw data from Excel files and designed interactive reports and dashboards to complete the task.
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
+
+[Dashboard](https://github.com/venkataprasad-munigala/Projects/blob/main/Pizza_Sales%20(SQL_PBI)/Pizza%20Sales%20Images/Pizza_Sales_Dashboard.png)
 

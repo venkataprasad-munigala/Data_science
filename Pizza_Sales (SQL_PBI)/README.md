@@ -16,19 +16,6 @@
 
 Dive into the world of pizza with this dataset! It captures the essence of each pizza order, from Hawaiian to Classic Deluxe, with details like order date, time, unit price, and total price. Also, if you're a fan of veggie delights or crave the richness of a supreme pizza, this dataset unfolds the story of flavors in every slice.
 
-#### pizza_id
-#### order_id
-#### pizza_name_id
-#### quantity
-#### order_date
-#### order_time
-#### unit_price
-#### total_price
-#### pizza_size
-#### pizza_category
-#### pizza_ingredients
-#### pizza_name
-
 
 ## 📝Steps Performed:
 

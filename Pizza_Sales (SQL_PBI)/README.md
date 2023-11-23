@@ -25,5 +25,4 @@ Dive into the world of pizza with this dataset! It captures the essence of each 
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
 
-[Dashboard](https://github.com/venkataprasad-munigala/Projects/blob/main/Pizza_Sales%20(SQL_PBI)/Pizza%20Sales%20Images/Pizza_Sales_Dashboard.png)
-
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Pizza_Sales%20(SQL_PBI)/Pizza%20Sales%20Images/Pizza_Sales_Dashboard.png" alt="Home View" width="800" height="600"/> 

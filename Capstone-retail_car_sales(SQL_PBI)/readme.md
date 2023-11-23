@@ -13,7 +13,7 @@ Axon, a retailer that specializes in classic cars, is facing challenges in manag
 <b>Advanced Analytics:</b> SQL is leveraged for advanced analytics on sales data, enabling the extraction of valuable insights that can be utilized to enhance sales strategies and operational efficiency.
     
 ## Project Steps
-<b>Data Preparation:</b> Set up a MySQL database named "classicmodels" and import it into Power BI for further analysis.
+<b>Data Preparation:</b> Set up a MySQL database named <b>classicmodels</b> and import it into Power BI for further analysis.
 
 <b>Data Transformation:</b> Perform data cleansing and transformation to ensure the accuracy and reliability of the data.
 
@@ -28,4 +28,13 @@ Power BI report: Share the Power BI file encompassing the interactive dashboards
 ## Result
 By effectively implementing this business intelligence (BI) solution, Axon will gain the ability to make well-informed decisions, enhance sales strategies, and ultimately boost its overall business performance within the classic car retail industry.
 
-[Dasbhoard]()
+## Dashboard Screens
+
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Capstone-retail_car_sales(SQL_PBI)/images%3Aicons/Home_View.png" alt="Home View" width="400" height="230"/> `
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Capstone-retail_car_sales(SQL_PBI)/images%3Aicons/Sales_View.png" alt="Home View" width="400" height="230">
+
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Capstone-retail_car_sales(SQL_PBI)/images%3Aicons/Orders_View.png" alt="Home View" width="400" height="230"> `
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Capstone-retail_car_sales(SQL_PBI)/images%3Aicons/Products_View.png" alt="Home View" width="400" height="230">
+
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Capstone-retail_car_sales(SQL_PBI)/images%3Aicons/Customer_View.png" alt="Home View" width="400" height="230"> `
+<img src="https://github.com/venkataprasad-munigala/Projects/blob/main/Capstone-retail_car_sales(SQL_PBI)/images%3Aicons/Employee_View.png" alt="Home View" width="400" height="230">

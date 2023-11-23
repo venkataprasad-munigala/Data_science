@@ -28,3 +28,5 @@ The objective of this project is to analyze the data on road accidents in the UK
 The treemap chart was utilized to visualize the insights, facilitating a concise comparison of accident frequencies across various road conditions. These valuable insights illuminate the influence of road infrastructure, road type, and road conditions on the magnitude and seriousness of road accidents in the United Kingdom. By providing stakeholders with informative visualizations, they are equipped with essential data to make well-informed choices and implement effective measures to enhance road safety and minimize the likelihood of accidents.
 
 
+<b>Dashboard</b><br/>
+<img src= "https://github.com/venkataprasad-munigala/Projects/blob/main/Excel%20US%20Road%20Accidents/images/Dashboard.png" alt="Dashboard Image" height=350px width=600px/>
